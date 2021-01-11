@@ -7,4 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# B
+# Todo App in Laravel 8 
+
+- released version 0.1 in 2021-1-12 
